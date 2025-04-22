@@ -1,0 +1,258 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container{
+    padding-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 5rem;
+}
+.container img{
+    width: 20px;
+}
+.logo-text{
+    font-family: 'Kanit';
+    font-size: 18px;
+}
+nav.h-right{
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    width: 550px;
+    height: 38px;
+}
+nav.h-right a{
+    font-family: 'Inter';font-size: 14px;
+    text-decoration: none;
+    color: #081E34;
+}
+
+.get-circle{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #081E341F;
+    background-color: #081E341F;
+    border-radius: 999px;
+    height: 38px;
+    width: 88px;
+}
+
+
+.body-1{
+    width: 1830px;
+    height: 550px;
+    margin-left: 90px;
+    padding-top: 55px;
+    display: flex;
+    font-family: 'Inter';
+    font-size: Medium;
+    
+}
+
+.body-1 h1{
+   font-family: None;
+    margin-top: 50px;
+    width: 495px;
+    height: 192px;
+    font-size: 54px;
+    line-height: 64px;
+    padding-right: 550px;
+}
+.body-1 p{
+    width: 495px;
+    height: 44px;
+    margin-top: 35px;
+    padding: 0px;
+    
+}
+.w_laptop{
+    margin-right: 80px;
+    border-radius: 25px;
+    width: 100%;
+    height: auto;
+}
+.button-1{
+    margin-top: 50px;
+    background-color: #712FFF;
+    color: white;
+    padding-top:25px;
+    padding-left: 30px;
+    border: 1px solid #712FFF;
+    border-radius: 100px;
+    width: 144px;
+    height: 50px;
+}
+
+
+.w_dollar{
+    width: 139px;
+    height: 181px;
+    transform: translateY(-450px);
+    margin-left: 240px;
+}
+.w_flower{
+    width: auto;
+    height: 181px;
+    transform: translateY(-450px);
+    margin-left: 500px;
+}
+.body-2{
+    background-color: #E1DEE7;
+    width: auto;
+    height: 550px;
+}
+
+.text-2{
+    
+    margin-left: 700px;
+    padding-top: 80px;
+    width: 651px;
+    height: 144px;
+}
+
+
+.imagestext img{
+    width: 64px;
+    height: 64px;
+}
+.imagestext{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.third_part{
+    background-color: #E5E4E2;
+    width: auto;
+    height: 422px;
+    padding-top: 70px;
+    
+}
+.third_part h1, p{
+    padding-left: 70px
+}
+.third_part p{
+    padding-top: 40px;
+    width: 495px;
+    height: 44px;
+    padding-bottom: 50px;
+    font-size: 16px;
+    font-family: 'Inter';
+}
+.third_part h1{
+    font-size: 54px;
+    line-height: 64px;
+}
+.search-container {
+    display: flex;
+    justify-content: left;
+    gap: 10px;
+    
+  }
+  
+.search-container input {
+    width: 519px;
+    height: 30px;
+
+    padding: 12px 20px 12px 50px;
+    font-size: 16px;
+    border-radius: 15px;
+    border: 1px solid #ddd;
+    outline: none;
+  }
+  
+.search-container input::placeholder {
+    color: #ccc;
+    
+  }
+  
+.search-container button {
+    width: 118px;
+    height: 58px;
+    background-color: #7b4fff;
+    color: white;
+    border: none;
+    margin-left: 40px;
+    
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+.search-container button:hover {
+    background-color: #662de4;
+}
+  
+
+
+#search_id{
+    position: relative;
+    transform: translateX(60px);
+    margin-top: 10px;
+}
+#search_id img{
+    width: 40px;
+    height: 40px;
+    opacity: 0.2;
+}
+
+.CV{
+    display: flex;
+    width: auto;
+    height: 548px;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #E5E4E2;
+}
+
+.image_man img{
+    border-radius: 25px;
+    width: 619px;
+    height: 420px;
+
+}
+.final_text{
+    line-height: 22px;
+}
+.final_text h1{
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+.final_text p{
+    transform: translateX(-60px);
+    font-size: 16px;
+    width: 495px;
+    height: 44px;
+}
+
+footer{
+    display: flex;
+    width: 100%;
+    height: 172px;
+    padding-top: 40px;
+
+}
+.footer_l{
+    margin-left: 50px;
+}
+.footer_l a{
+    color: black;
+}
+.bird{
+    width: 24px;
+    height: 24px;
+    
+}
+.inst{
+    width: 24px;
+    height: 24px;
+}
+
+.love p{
+    color: rgb(193, 21, 181);
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 100px;
+    margin-left: 1000px;
+}
