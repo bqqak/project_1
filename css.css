@@ -42,7 +42,7 @@ nav.h-right a{
 
 
 .body-1{
-    width: 1830px;
+    width: auto;
     height: 550px;
     margin-left: 90px;
     padding-top: 55px;
@@ -125,7 +125,7 @@ nav.h-right a{
     align-items: center;
 }
 .third_part{
-    background-color: #E5E4E2;
+    background-color: rgb(241, 241, 241);
     width: auto;
     height: 422px;
     padding-top: 70px;
@@ -199,12 +199,13 @@ nav.h-right a{
 }
 
 .CV{
+    background-color: rgb(241, 241, 241);
     display: flex;
     width: auto;
     height: 548px;
     align-items: center;
     justify-content: space-around;
-    background-color: #E5E4E2;
+    
 }
 
 .image_man img{
@@ -214,6 +215,7 @@ nav.h-right a{
 
 }
 .final_text{
+    background-color: auto;
     line-height: 22px;
 }
 .final_text h1{
@@ -229,7 +231,7 @@ nav.h-right a{
 
 footer{
     display: flex;
-    width: 100%;
+    width: auto;
     height: 172px;
     padding-top: 40px;
 
